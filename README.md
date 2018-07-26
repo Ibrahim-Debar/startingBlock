@@ -1,16 +1,13 @@
------- install ------
+## Installation de l'application
 
-1) git clone git@github.com:ibrahimworks/startingBlock.git
-
-or download :
-
-https://github.com/ibrahimworks/startingBlock/archive/master.zip
+```
+git clone git@github.com:ibrahimworks/startingBlock.git
 
 
-2)
+cd startingBlock
 
-npm install 
+yarn
 
- or 
+```
 
-yarn 
+
