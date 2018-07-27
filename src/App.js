@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import {Howl, Howler} from 'howler';
-
+import {Howl} from 'howler';
 import Sund from './failed.mp3'
 import Sund2 from './success.mp3'
 

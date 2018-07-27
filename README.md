@@ -8,6 +8,10 @@ cd startingBlock
 
 yarn
 
+run app 
+
+yarn start
+
 ```
 
 
